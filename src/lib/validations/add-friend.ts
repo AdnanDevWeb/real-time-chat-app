@@ -6,9 +6,4 @@ export const addFriendValidator = z.object({
 })
 
 
-const random = {
-    idk: 'asd'
-}
-
-
 
